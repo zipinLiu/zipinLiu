@@ -50,7 +50,7 @@ Here are some technologies I'm working with:
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech or security!
 
 * **Email:** [zipin_liu@qq.com](mailto:zipin_liu@qq.com)
-* **LinkedIn:** [lymzzi.xyz]
+* **LinkedIn:** [https://lymzzi.xyz]
 * **X:** ()
 
 ---
