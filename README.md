@@ -58,7 +58,7 @@ Feel free to reach out if you have any questions, collaboration ideas, or just w
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kohin&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Kohin's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zipinLiu&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Kohin's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kohin&theme=vue&hide_border=true" alt="Kohin's GitHub Streak"/>
 </div>
 
