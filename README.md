@@ -52,7 +52,7 @@ Here are some technologies and languages I'm working with:
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech, security, or Linux!
 
 * **Academic Email:** [zipin_liu@qq.com](mailto:zipin_liu@qq.com)
-* **LinkedIn:** [https://www.lymzzi.xyz]
+* **LinkedIn:** [https:///blog.kohinbox.top]
 * **x:** ()
 
 ---
